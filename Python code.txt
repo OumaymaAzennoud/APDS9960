@@ -1,0 +1,1 @@
+https://docs.circuitpython.org/projects/apds9960/en/latest/

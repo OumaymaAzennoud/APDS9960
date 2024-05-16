@@ -1,0 +1,6 @@
+cd work
+cd light_sensor
+python -m venv myenv
+source myenv/bin/activate
+nano gesture.py
+python gesture.py
